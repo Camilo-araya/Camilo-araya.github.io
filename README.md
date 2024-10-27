@@ -5,7 +5,7 @@ Bienvenido a mi Portafolio
 
 Fork
 
-- https://github.com/pyro-nicolini/curriculum
-- https://github.com/Bladesnecro/Curr-culum
+- https://github.com/Camilo-araya/PYRO_curriculum
+- https://github.com/Camilo-araya/Rob3rto-Lira.github.io
 
 
